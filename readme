@@ -4,4 +4,4 @@ Trained an artificial neural network using training dataset. Dataset contains in
 
 Trained the neural network using single hidden layer consisting of 128 nodes. Used keras library with tensorflow backend for complex mathematical calculations and also to initialize and train the neural network.
 
-Acheived an accuracy of 85.16%. 
+Acheived an accuracy of 86.25%. 
