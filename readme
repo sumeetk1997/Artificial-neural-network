@@ -1,0 +1,7 @@
+ARTIFICIAL NEURAL NETWORK:
+
+Trained an artificial neural network using training dataset. Dataset contains information of customers of a bank such as name, geography, gender, balance in account and we have to predict that a customer will leave the bank or not, according to the information generated from customers.
+
+Trained the neural network using single hidden layer consisting of 128 nodes. Used keras library with tensorflow backend for complex mathematical calculations and also to initialize and train the neural network.
+
+Aceived an accuracy of 85.16%. 
